@@ -9,8 +9,8 @@ import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 
+import com.vinicius.websocketchat.entities.User;
 import com.vinicius.websocketchat.service.UserService;
-import com.vinicius.websocketchat.user.User;
 
 import lombok.RequiredArgsConstructor;
 

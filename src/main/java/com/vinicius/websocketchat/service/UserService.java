@@ -4,9 +4,9 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
+import com.vinicius.websocketchat.entities.Status;
+import com.vinicius.websocketchat.entities.User;
 import com.vinicius.websocketchat.repository.UserRepository;
-import com.vinicius.websocketchat.user.Status;
-import com.vinicius.websocketchat.user.User;
 
 import lombok.RequiredArgsConstructor;
 
